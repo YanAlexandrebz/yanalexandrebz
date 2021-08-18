@@ -2,10 +2,10 @@
 
 <h3> 🚹: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🤔 &nbsp; Desenvolvedor de Software.
+- 🎓 &nbsp; Estudando **Sistemas de Informação** na <a href="https://www.fiap.com.br/">FIAP</a>.
+- 💼 &nbsp; Trabalhando como **Software Developer** na <a href="https://www.indracompany.com/pt-br">Indra</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Angular e Java**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
