@@ -1,4 +1,8 @@
+<a href="https://github.com/YanAlexandrebz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanAlexandrebz&theme=dracula&show_icons=true" />
+</a>
 
+<br/>
 
 <h3> 🧐: &nbsp;Sobre mim </h3>
 
@@ -37,12 +41,6 @@
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
  
  <br/>
-
-<a href="https://github.com/YanAlexandrebz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanAlexandrebz&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
