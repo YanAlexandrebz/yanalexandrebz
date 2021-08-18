@@ -41,4 +41,3 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Yan Alexandre](https://img.shields.io/badge/-yan-alexandre--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-alexandre-/)](https://www.linkedin.com/in/yan-alexandre-/)
-[![GitHub Yanalexandrebz]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/YanAlexandrebz)
