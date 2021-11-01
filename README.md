@@ -7,9 +7,7 @@
 <h3> 🧐: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Desenvolvedor de Software.
-- 🎓 &nbsp; Estudando **Sistemas de Informação** na <a href="https://www.fiap.com.br/">FIAP</a>.
-- 💼 &nbsp; Trabalhando como **Software Developer** na <a href="https://www.indracompany.com/pt-br">INDRA COMPANY</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Angular e Java**.
+- 🌱 &nbsp; Aprendendo mais sobre **Angular, Java e DevOps**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
